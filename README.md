@@ -1,4 +1,6 @@
 # yodo-bot
+[![Github All Releases](https://img.shields.io/github/downloads/ilyasafr/yodo-bot/total.svg)]()
+
 Yodo - Running &amp; Pedometer, Received cash Account Register With Referral Code
 
 ## Install
